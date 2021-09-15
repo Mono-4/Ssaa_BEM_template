@@ -1,1 +1,5 @@
-# Ssaa_BEM_template
+# SASS BEM Template
+
+## SASS file structure
+
+- 7-1 pattern

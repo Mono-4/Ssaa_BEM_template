@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo&family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap");
+html {
+	font-size: 100%;
+	scroll-behavior: smooth;
+}
+body {
+	min-height: 100vh;
+
+	font-family: "Noto Sans JP", sans-serif;
+	line-height: 1.5;
+}
+a {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+img {
+	max-width: 100%;
+}
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+h1,
+h2 {
+}
