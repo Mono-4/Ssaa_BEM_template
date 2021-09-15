@@ -5,15 +5,6 @@
 	"editor.tabSize": 2,
 	"editor.wordWrap": "on",
 	"prettier.useTabs": true,
-	"[html]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"[css]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"[javascript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"csscomb.preset": "yandex",
 	"csscomb.syntaxAssociations": {
